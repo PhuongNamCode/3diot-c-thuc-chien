@@ -24,11 +24,3 @@ program
 .idea/
 *.swp
 *~
-
-# ===== OS =====
-.DS_Store
-Thumbs.db
-
-# ===== Debug =====
-*.gdb_history
-core
